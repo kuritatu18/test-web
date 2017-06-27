@@ -19,7 +19,7 @@
 </head>
 <body>
   <h1>Hello world</h1>
+  <h1>こんにちは</h1>
   <ul><?php foreach($INFO as $e){echo '<li>', $e, '</li>';}?></ul>
-  <?php THIS-IS-ERROR()?>
 </body>
 </html>
