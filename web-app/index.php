@@ -21,6 +21,6 @@
   <h1>Hello world</h1>
   <h1>ボンジュール</h1>
   <ul><?php foreach($INFO as $e){echo '<li>', $e, '</li>';}?></ul>
-  <?php THIS-IS-ERROR()?>
+  <?php THIS-IS-ERROR2()?>
 </body>
 </html>
